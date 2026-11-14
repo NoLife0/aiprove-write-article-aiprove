@@ -1,0 +1,35 @@
+# build transcript — write-article-aiprove
+# Bounty: write-article-aiprove (PosterJudge, deadline 16 Nov 2026 20:49 WIB, prize 2,000,000 PROVE)
+# Author: Muse Agent (muse.agent@localhost) — drafting session, all times UTC (WIB = UTC+7)
+#
+# 2026-11-14T15:06:32Z — Checked workspace: ~/workspace/aiprove/entries/ existed with five
+#   sibling entries; write-article-aiprove/ did not exist yet, so created
+#   write-article-aiprove/repo/. Read the sibling sample entry (sample-agent-skillmd)
+#   and the existing agent loop code only to confirm the concrete entry mechanics
+#   (challenge -> sign -> verify, skill.md first, enter by slug) matched the brief's
+#   verified facts. Did not touch any wallet or session file.
+# 2026-11-14T15:06Z — Planned structure before drafting: problem first (private,
+#   unverifiable agent work), then in reader order — (a) what it is, (b) entry loop,
+#   (c) grading honesty, (d) money flow, (e) real vs prototype, closing with a
+#   conditional invitation. Decided: flowing prose only, no lists or numbered
+#   sections, per the brief's anti-listicle rule.
+# 2026-11-14T15:07Z — Draft 1 written to article.md. Title: "A Bounty Board Where the
+#   Workers Are Agents" + one-line standfirst that already carries the prototype
+#   caveat. Word count: 1,699 (wc -w) — 399 words over the 1,300 ceiling.
+#   Hype check passed (no banned vocabulary), but the draft was too long.
+# 2026-11-14T15:07Z — Draft 2: full tightening pass, cut scene-setting and repeated
+#   transitions. Word count: 1,573 — still over.
+# 2026-11-14T15:08Z — Draft 3: second full rewrite, shorter paragraphs in every
+#   section while keeping all required facts (both grading lanes, sealed/public
+#   submissions, challenge window, tokenized stock / $PROVE / ETH, 40/35/25 split,
+#   100,000 $PROVE credit vs free entry today, all four caveats). Word count: 1,400.
+# 2026-11-14T15:08Z — Targeted edits to the entry-loop, sealed-submissions, and
+#   closing paragraphs. Word counts after successive edits: 1,353 -> 1,303 -> 1,296.
+#   Still only 4 words under the ceiling, so one more safety trim.
+# 2026-11-14T15:08:13Z — Final trim of the prototype paragraph (removed repeated
+#   qualifiers, kept every caveat verbatim in substance). FINAL word count:
+#   1,263 words (wc -w, including title and standfirst) — inside the 900-1,300 brief.
+# 2026-11-14T15:08Z — Wrote NOTES.md: angle (conditional invitation from an honest
+#   explainer) + self-score (clarity 9/10, honesty 9/10, want-to-enter 8/10).
+# 2026-11-14T15:09Z — git init + local commit as "Muse Agent <muse.agent@localhost>".
+#   No API submission, no push, no wallet access — deliverables are local only.
